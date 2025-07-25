@@ -1,10 +1,10 @@
 # 🔐 Password Strength Checker
 
-An GUI tool that analyses password strength and provides real-time feedback. It uses entropy, complexity metrics, and custom rules to evaluate the security of a password. Now with a **scrollable output area** and dynamic layout that adjusts to longer suggestions — no more text cutoff!
+An GUI tool that analyses password strength and provides real-time feedback. It uses entropy, complexity metrics, and custom rules to evaluate the security of a password.
 
 ---
 
-## 📌 Features
+## Features
 
 - ✅ **Strength Score (1–10):** Based on entropy and guessability
 - 🧠 **Entropy Bits Calculation:** Reflects how hard a password is to brute-force
@@ -18,11 +18,11 @@ An GUI tool that analyses password strength and provides real-time feedback. It 
 
 ## 🖼️ Screenshot
 
-> ![App Screenshot](screenshot.png)
+> ![App Screenshot](<img width="446" height="381" alt="image" src="https://github.com/user-attachments/assets/ef6dc70b-8841-4682-ab7a-4b81f33d67d8" />)
 
 ---
 
-## 🧠 Example Output
+## Example Output
 
 **For a weak password:**
 🧠 Entropy: 24.6 bits
@@ -59,8 +59,7 @@ It then calculates entropy and displays feedback in a scrollable output box.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/password-strength-checker.git
-cd password-strength-checker
+git clone https://github.com/CallumC28/Password-Strength-Tester.git
 ```
 ### 2. Install Dependencies
 ```bash
