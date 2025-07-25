@@ -18,7 +18,7 @@ An GUI tool that analyses password strength and provides real-time feedback. It 
 
 ## 🖼️ Screenshot
 
-> ![App Screenshot](<img width="446" height="381" alt="image" src="https://github.com/user-attachments/assets/ef6dc70b-8841-4682-ab7a-4b81f33d67d8" />)
+> ![App Screenshot](screenshot(24).png)
 
 ---
 
@@ -65,6 +65,8 @@ git clone https://github.com/CallumC28/Password-Strength-Tester.git
 ```bash
 pip install zxcvbn
 ```
+tkinter (included in standard Python distribution)
+
 ### 3. Run the Application
 ```bash
 python password.py
