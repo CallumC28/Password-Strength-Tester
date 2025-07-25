@@ -18,7 +18,7 @@ An GUI tool that analyses password strength and provides real-time feedback. It 
 
 ## 🖼️ Screenshot
 
-> ![App Screenshot](screenshot(24).png)
+> ![App Screenshot](Screenshot(24).png)
 
 ---
 
