@@ -16,7 +16,7 @@ A simple GUI tool that analyses password strength and provides real-time feedbac
 
 ---
 
-## 🖼️ Screenshot
+## Screenshot
 
 > ![App Screenshot](Screenshot(24).png)
 
@@ -55,7 +55,7 @@ It then calculates entropy and displays feedback in a scrollable output box.
 
 ---
 
-## 💻 Installation
+## Installation
 
 ### 1. Clone the Repository
 ```bash
