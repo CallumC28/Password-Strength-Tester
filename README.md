@@ -1,4 +1,4 @@
-# 🔐 Password Strength Checker
+# Password Strength Checker
 
 A simple GUI tool that analyses password strength and provides real-time feedback. It uses entropy, complexity metrics, and custom rules to evaluate the security of a password.
 
